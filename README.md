@@ -5,8 +5,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 </p>
 
 ---
-
-## 🎯 Sobre mim
 - 🎓 Estudante de ADS na FATEC  
 - 💻 Em transição de carreira para tecnologia  
 - 📚 Estudando **Python, Java, JavaScript, Banco de Dados e Engenharia de Software**  
