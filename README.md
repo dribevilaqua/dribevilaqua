@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ <span class="typing">Seja bem-vindo(a) ao meu perfil!</span> ✨
+  <span class="typing">✨ Seja bem-vindo(a) ao meu perfil! ✨</span>
 </h1>
 
 <p align="center">
@@ -13,6 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 - 📚 Estudando **Python, Java, JavaScript, Banco de Dados e Engenharia de Software**  
 - 🚀 Buscando oportunidade para aplicar meus conhecimentos em projetos reais  
 - ✨ Focada em desenvolvimento de software e em aprimorar minhas habilidades técnicas  
+  <img src="https://media.giphy.com/media/3o7TKrF4pj2K1efbLu/giphy.gif" width="30"/> 🤓
 
 ---
 
@@ -29,23 +30,16 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 
 ---
 
-## 🐍 Cobrinha do GitHub
+## 📊 Contribuições no GitHub
 
 <p align="center">
-  <img src="https://github.com/UPA-AEROPORTO/UPA-AEROPORTO/raw/main/assets/github-snake-darkpink.svg" alt="GitHub Snake" width="300"/>
-</p>
-
----
-
-## 🤖 Robô nerd dançando
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKrF4pj2K1efbLu/giphy.gif" alt="Robo Dançando" width="150"/>
+  <img src="https://raw.githubusercontent.com/UPA-AEROPORTO/UPA-AEROPORTO/main/assets/github-snake-darkpink.svg" alt="Cobrinha GitHub" width="500"/>
 </p>
 
 ---
 
 <style>
-/* Animação do texto "Seja bem-vindo(a)" */
+/* Texto surgindo */
 @keyframes typing {
   from { width: 0; }
   to { width: 100%; }
@@ -53,23 +47,13 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 .typing {
   display: inline-block;
   overflow: hidden;
-  border-right: .15em solid pink;
+  border-right: .15em solid #ff1493;
   white-space: nowrap;
   animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
 }
+
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: pink; }
+  from, to { border-color: transparent; }
+  50% { border-color: #ff1493; }
 }
 </style>
-
-
-## 📫 Como me encontrar
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/andriele-bevilaqua-4a314b317  
-- 📧 **E-mail:** andrielebevilaqua@gmail.com  
-
----
-
-<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
-
-
