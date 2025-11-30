@@ -1,34 +1,41 @@
-<h1 align="center">👋 Olá! Eu sou a Andriele Bevilaqua</h1>
+<h1 align="center">✨ Seja bem-vindo(a) ao meu perfil! ✨</h1>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição para TI  
+Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição para TI
 </p>
 
 ---
 
 ## 🎯 Sobre mim
 - 🎓 Estudante de ADS na FATEC  
-- 💻 Em transição de carreira para área de tecnologia  
+- 💻 Em transição de carreira para tecnologia  
 - 📚 Estudando **Python, Java, JavaScript, Banco de Dados e Engenharia de Software**  
 - 🚀 Buscando oportunidade para aplicar meus conhecimentos em projetos reais  
-- ✨ Focada em desenvolvimento de software e em aprimorar minhas habilidades técnicas
+- ✨ Focada em desenvolvimento de software e em aprimorar minhas habilidades técnicas  
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias em desenvolvimento
 
-### 📌 Linguagens
-- Python  
-- Java  
-- JavaScript  
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 
-### 📌 Banco de Dados
-- MySQL
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 
-### 📌 Ferramentas
-- Git & GitHub  
-- VS Code  
-- Linux  
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
 
 ---
 
@@ -39,4 +46,5 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 ---
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
+
 
