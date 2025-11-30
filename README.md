@@ -1,5 +1,3 @@
-
-Você disse:
 <h1 align="center">✨ Seja bem-vindo(a) ao meu perfil! ✨</h1>
 
 <p align="center">
@@ -7,6 +5,8 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 </p>
 
 ---
+
+## 🎯 Sobre mim
 - 🎓 Estudante de ADS na FATEC  
 - 💻 Em transição de carreira para tecnologia  
 - 📚 Estudando **Python, Java, JavaScript, Banco de Dados e Engenharia de Software**  
@@ -32,4 +32,19 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
+
+---
+
+## 📫 Como me encontrar
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/andriele-bevilaqua-4a314b317  
+- 📧 **E-mail:** andrielebevilaqua@gmail.com  
+
+---
+
+<p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
+
 
