@@ -1,4 +1,6 @@
-<h1 align="center">Seja bem-vindo(a) ao meu perfil!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F76061&center=true&vCenter=true&width=430&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG">
+</div>
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas (FATEC) e em Transição de Carreira para TI
@@ -46,5 +48,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) e em Transição de 
 ---
 
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
-
 
