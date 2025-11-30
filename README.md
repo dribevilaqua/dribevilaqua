@@ -1,6 +1,6 @@
-<h1 align="center">
-  <span class="typing">✨ Seja bem-vindo(a) ao meu perfil! ✨</span>
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UPA-AEROPORTO/UPA-AEROPORTO/main/assets/welcome.gif" alt="Seja bem-vindo(a) ao meu perfil!" width="600"/>
+</p>
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição para TI
@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 - 📚 Estudando **Python, Java, JavaScript, Banco de Dados e Engenharia de Software**  
 - 🚀 Buscando oportunidade para aplicar meus conhecimentos em projetos reais  
 - ✨ Focada em desenvolvimento de software e em aprimorar minhas habilidades técnicas  
-  <img src="https://media.giphy.com/media/3o7TKrF4pj2K1efbLu/giphy.gif" width="30"/> 🤓
+ 🤓
 
 ---
 
@@ -30,30 +30,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) | Em transição par
 
 ---
 
-## 📊 Contribuições no GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/UPA-AEROPORTO/UPA-AEROPORTO/main/assets/github-snake-darkpink.svg" alt="Cobrinha GitHub" width="500"/>
-</p>
-
----
-
-<style>
-/* Texto surgindo */
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-.typing {
-  display: inline-block;
-  overflow: hidden;
-  border-right: .15em solid #ff1493;
-  white-space: nowrap;
-  animation: typing 3s steps(40, end), blink-caret .75s step-end infinite;
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: #ff1493; }
-}
-</style>
