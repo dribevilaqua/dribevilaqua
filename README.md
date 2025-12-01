@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F76061&center=true&vCenter=true&width=500&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F76061&center=true&vCenter=true&width=550&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) e em Transição de 
 - 🔄 Em **transição de carreira** para a área de Tecnologia da Informação.
 - 📚 Foco em **Desenvolvimento de Software** e **Engenharia de Software**.
 - 🛠️ Estudando ativamente **Python, Java, JavaScript, Banco de Dados** e **Git**.
-- 🚀 Busco ativamente oportunidades para aplicar e expandir meus conhecimentos em **projetos reais** e desafiadores. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eDFsdXpvZW44cWV0ZzZna2hjeWd6bTVtYXN5ZmZlNzU5aDhuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaH9B20k2gUvFkC0/giphy.gif" width="30" alt="Emoji Nerd Rolo"/>
+- 🚀 Busco ativamente oportunidades para aplicar e expandir meus conhecimentos em **projetos reais** e desafiadores. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFlOW10dWRkMmwxYWR6aDBwZXlwZ2I0eXo4NTAzd3R0bXRydmZ1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bWd8yYtqWd9q/giphy.gif" width="30" alt="Brain Roll GIF"/>
 
 ---
 
