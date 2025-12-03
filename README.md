@@ -41,16 +41,12 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) e em Transição de 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=dribevilaqua&show_icons=true&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=1&langs_count=8&count_private=true" height="200" alt="Linguagens Mais Usadas"/>
-
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dribevilaqua&theme=dracula&hide_border=true&border_radius=0&card_height=200&locale=pt" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-stats-custom-five.vercel.app/api/top-langs/?username=dribevilaqua&show_icons=true&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=1&langs_count=8&count_private=true" 
+    height="200" 
+    alt="Linguagens Mais Usadas"
+  />
 </div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dribevilaqua/dribevilaqua/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dribevilaqua/dribevilaqua/output/github-contribution-grid-snake.svg">
 
 ---
 ## 📫 Como me encontrar
