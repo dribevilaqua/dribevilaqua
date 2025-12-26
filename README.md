@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) e em Transição de 
 - 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas (**FATEC**).
 - 🔄 Em **transição de carreira** para a área de Tecnologia da Informação.
 - 📚 Foco em **Desenvolvimento de Software** e **Engenharia de Software**.
-- 🛠️ Estudando ativamente **Python, Java, JavaScript, Banco de Dados** e **Git**.
+- 🛠️ Estudando ativamente **Python, Java, JavaScript, Dart, Flutter, Banco de Dados** e **Git**.
 - 🚀 Busco ativamente oportunidades para aplicar e expandir meus conhecimentos em **projetos reais** e desafiadores.
 
 ---
@@ -26,6 +26,10 @@ Estudante de Análise e Desenvolvimento de Sistemas (FATEC) e em Transição de 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
     
